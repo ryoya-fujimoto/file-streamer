@@ -1,0 +1,7 @@
+[package]
+name = "file-streamer"
+version = "0.1.0"
+authors = ["r-fujimoto <r-fujimoto@iij.ad.jp>"]
+edition = "2018"
+
+[dependencies]
